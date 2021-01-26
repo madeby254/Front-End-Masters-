@@ -1,8 +1,9 @@
 let character = 'f';
 let timesToRepeat = 10;
+let answer = '';
 
 for (let i = 0; i < timesToRepeat; i++) {
-  console.log(character);
+  answer += character;
 }
 
-// console.log(character);
+console.log(answer);
