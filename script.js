@@ -1,5 +1,5 @@
 let character = 'f';
-let timesToRepeat = 10;
+let timesToRepeat = 200;
 let answer = '';
 
 for (let i = 0; i < timesToRepeat; i++) {
