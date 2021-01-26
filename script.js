@@ -1,6 +1,5 @@
 let friendsAtYourParty = 0;
-
-while (friendsAtYourParty < 100) {
+for (let i = 0; i < 10; i++) {
   friendsAtYourParty++;
 }
 console.log(friendsAtYourParty);
