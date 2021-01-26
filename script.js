@@ -1,3 +1,6 @@
-const monthlyRent = 1800;
-const yearlyRent = monthlyRent * 12;
-console.log(yearlyRent);
+let friendsAtYourParty = 0;
+
+while (friendsAtYourParty < 100) {
+  friendsAtYourParty++;
+}
+console.log(friendsAtYourParty);
