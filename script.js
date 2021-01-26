@@ -1,5 +1,8 @@
-let friendsAtYourParty = 0;
-for (let i = 0; i < 10; i++) {
-  friendsAtYourParty++;
+let character = 'f';
+let timesToRepeat = 10;
+
+for (let i = 0; i < timesToRepeat; i++) {
+  console.log(character);
 }
-console.log(friendsAtYourParty);
+
+// console.log(character);
